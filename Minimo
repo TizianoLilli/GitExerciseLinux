@@ -1,0 +1,21 @@
+.org 0x800
+.data
+	.equ n, 5
+	v: .word 1, 6, 9, 4, 0
+.text
+main:
+	xorq %rax, %rax
+	xorq %rcx, %rcx
+	movw v(,%rcx,4), %ax
+      .loop: cmp %rcx, n
+	jz .end
+	addq $1, %rcx
+	cmpw v(,%rcx,4), %ax
+	jnc .set
+	jmp .loop
+      .end:
+	hlt
+      .set:
+	jz .loop
+	movw v(,%rcx,4), %ax
+	jmp .loop
