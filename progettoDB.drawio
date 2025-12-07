@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
+  <diagram name="Pagina-1" id="4Rko2fCcO7o2p2XpwgWC">
+    <mxGraphModel dx="786" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1hrUsB1nqEgmvVxnHAQe-6" edge="1" parent="1" source="1hrUsB1nqEgmvVxnHAQe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="1hrUsB1nqEgmvVxnHAQe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hrUsB1nqEgmvVxnHAQe-1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="LIVELLO" vertex="1">
+          <mxGeometry height="40" width="100" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1hrUsB1nqEgmvVxnHAQe-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="CORSO" vertex="1">
+          <mxGeometry height="40" width="100" x="320" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1hrUsB1nqEgmvVxnHAQe-3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="EDIZIONE CORSO" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1hrUsB1nqEgmvVxnHAQe-7" edge="1" parent="1" source="1hrUsB1nqEgmvVxnHAQe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="1hrUsB1nqEgmvVxnHAQe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1hrUsB1nqEgmvVxnHAQe-5" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="riferimento" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
