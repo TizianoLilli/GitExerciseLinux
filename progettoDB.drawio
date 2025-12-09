@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="Pagina-1" id="4Rko2fCcO7o2p2XpwgWC">
-    <mxGraphModel dx="1308" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1121" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,26 +476,6 @@
             <mxPoint x="760" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-240" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;fillColor=#000000;endWidth=12.592592592592592;endSize=5.385185185185184;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="760" y="600" as="sourcePoint" />
-            <mxPoint x="759.63" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-243" edge="1" parent="1" source="BkEiYF8dSS7Yr_P2rv9F-241" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="BkEiYF8dSS7Yr_P2rv9F-242">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="687" y="600" />
-              <mxPoint x="835" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-241" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="LEZIONE PROGRAMMATA" vertex="1">
-          <mxGeometry height="40" width="107" x="637" y="630" as="geometry" />
-        </mxCell>
-        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-242" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="LEZIONE EROGATA" vertex="1">
-          <mxGeometry height="40" width="100" x="785" y="629.9300000000001" as="geometry" />
-        </mxCell>
         <mxCell id="BkEiYF8dSS7Yr_P2rv9F-247" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Giorno" vertex="1">
           <mxGeometry height="10" width="45" x="773" y="470" as="geometry" />
         </mxCell>
@@ -600,6 +580,22 @@
         </mxCell>
         <mxCell id="BkEiYF8dSS7Yr_P2rv9F-289" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="nr. assenze" vertex="1">
           <mxGeometry height="30" width="40" x="269" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-290" edge="1" parent="1" source="BkEiYF8dSS7Yr_P2rv9F-292" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="BkEiYF8dSS7Yr_P2rv9F-292">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759.5" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-291" edge="1" parent="1" source="BkEiYF8dSS7Yr_P2rv9F-292" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="BkEiYF8dSS7Yr_P2rv9F-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759.5" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-292" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="754.5" y="582" as="geometry" />
+        </mxCell>
+        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-293" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Erogata" vertex="1">
+          <mxGeometry height="10" width="45" x="737" y="601" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
