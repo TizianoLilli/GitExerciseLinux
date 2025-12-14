@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
   <diagram name="Pagina-1" id="4Rko2fCcO7o2p2XpwgWC">
-    <mxGraphModel dx="1121" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,13 +402,13 @@
         <mxCell id="BkEiYF8dSS7Yr_P2rv9F-221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(1, 1)" vertex="1">
           <mxGeometry height="20" width="30" x="835.5" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-222" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(0, N)" vertex="1">
+        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-222" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(1, N)" vertex="1">
           <mxGeometry height="20" width="30" x="1115" y="238" as="geometry" />
         </mxCell>
         <mxCell id="BkEiYF8dSS7Yr_P2rv9F-223" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(1, 1)" vertex="1">
           <mxGeometry height="20" width="30" x="1115" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-226" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(1, N)" vertex="1">
+        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-226" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(0, N)" vertex="1">
           <mxGeometry height="20" width="30" x="820" y="385" as="geometry" />
         </mxCell>
         <mxCell id="BkEiYF8dSS7Yr_P2rv9F-227" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(1, 1)" vertex="1">
@@ -420,7 +420,7 @@
         <mxCell id="BkEiYF8dSS7Yr_P2rv9F-229" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0&lt;/font&gt;, N)" vertex="1">
           <mxGeometry height="20" width="30" x="672" y="385" as="geometry" />
         </mxCell>
-        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(0, N)" vertex="1">
+        <mxCell id="BkEiYF8dSS7Yr_P2rv9F-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(1, N)" vertex="1">
           <mxGeometry height="20" width="30" x="1070" y="440" as="geometry" />
         </mxCell>
         <mxCell id="BkEiYF8dSS7Yr_P2rv9F-231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="(1, N)" vertex="1">
